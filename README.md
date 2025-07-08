@@ -4,7 +4,7 @@
 - 🎓 Computer Science student at **Universitas Sumatera Utara**  
 - 🔍 Interested in **Database Management** & **Web Development**  
 - ♟️ Enjoys playing **chess** & solving **Rubik's cubes**  
-- 📚 Currently learning **MongoDB** & **React**  
+- 📚 Currently learning **Flutter** & **Dart**  
 - 💡 Passionate about building projects that solve real-world problems  
 
 ## 🌍 **Connect with Me**  
@@ -29,8 +29,6 @@
 </p>
 
 
-## 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfi-syahrin21&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfi-syahrin21&layout=compact&theme=dark)  
 
 
 📌 *"A journey of a thousand miles begins with a single step." – Lao Tzu*  
