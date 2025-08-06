@@ -27,6 +27,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfi-Syahrin21&show_icons=true)
 
 📌 *"A journey of a thousand miles begins with a single step." – Lao Tzu*  
