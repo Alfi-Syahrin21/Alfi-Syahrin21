@@ -3,8 +3,7 @@
 ## 📌 **About Me**  
 - 🎓 Computer Science student at **Universitas Sumatera Utara**  
 - 🔍 Interested in **Database Management** & **Web Development**  
-- ♟️ Enjoys playing **chess** & solving **Rubik's cubes**  
-- 📚 Currently learning **Flutter** & **Dart**  
+- ♟️ Enjoys playing **chess** & solving **Rubik's cubes**   
 - 💡 Passionate about building projects that solve real-world problems  
 
 ## 🌍 **Connect with Me**  
