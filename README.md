@@ -26,5 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alfi-Syahrin21/Alfi-Syahrin21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alfi-Syahrin21/Alfi-Syahrin21/output/github-contribution-grid-snake.svg">
+  <img alt="Github snake game" src="https://raw.githubusercontent.com/Alfi-Syahrin21/Alfi-Syahrin21/output/github-contribution-grid-snake.svg">
+</picture>
 
 📌 *"A journey of a thousand miles begins with a single step." – Lao Tzu*  
